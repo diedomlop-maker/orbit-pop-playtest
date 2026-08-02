@@ -1,0 +1,13 @@
+{
+  "name": "Orbit Pop — Arcade de bolsillo",
+  "short_name": "Orbit Pop",
+  "description": "Acción arcade de precisión para partidas rápidas.",
+  "id": ".",
+  "start_url": ".",
+  "scope": ".",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#07111f",
+  "theme_color": "#07111f",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
