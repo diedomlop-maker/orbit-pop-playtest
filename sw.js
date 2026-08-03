@@ -1,4 +1,4 @@
-const CACHE = 'orbit-pop-v6';
+const CACHE = 'orbit-pop-v7';
 const root = new URL('./', self.registration.scope);
 const assetUrl = path => new URL(path, root).toString();
 const ASSETS = [
