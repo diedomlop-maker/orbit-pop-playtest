@@ -19,7 +19,7 @@
         </div>
         <div class="home__meta"><span>◉ 3 vidas</span><span>⌁ 8 fases</span><span>✦ 6 premios</span><span>◇ 3 pilotos</span></div>
       </div>
-      <footer><span>ORBIT WORKS © 2026</span><span class="best-home">RÉCORD <b id="homeBest">000000</b></span></footer>
+      <footer><span>ORBIT WORKS © 2026 · v0.5.1</span><span class="best-home">RÉCORD <b id="homeBest">000000</b></span></footer>
     </section>
 
     <section class="game-view is-hidden" id="gameView">
