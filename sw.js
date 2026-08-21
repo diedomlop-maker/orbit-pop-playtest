@@ -1,4 +1,4 @@
-const CACHE = 'orbit-pop-v29';
+const CACHE = 'orbit-pop-v30';
 const root = new URL('./', self.registration.scope);
 const assetUrl = path => new URL(path, root).toString();
 const ASSETS = [
@@ -6,13 +6,13 @@ const ASSETS = [
   'index.html',
   'manifest.webmanifest',
   'icon.svg',
-  'assets/index.css?v=0.23.2',
-  'assets/app.js?v=0.23.2',
+  'assets/index.css?v=0.24.0',
+  'assets/app.js?v=0.24.0',
   'assets/mediterranean-arena.png',
   'assets/mist-archipelago.png',
-  'assets/pilots/nara-vela-cutout-v3.png',
-  'assets/pilots/ivo-quark-cutout-v3.png',
-  'assets/pilots/tess-bruma-cutout-v3.png',
+  'assets/pilots/nara-vela-compact-v4.png',
+  'assets/pilots/ivo-quark-compact-v4.png',
+  'assets/pilots/tess-bruma-compact-v4.png',
 ].map(assetUrl);
 self.addEventListener('install', event => {
   self.skipWaiting();
