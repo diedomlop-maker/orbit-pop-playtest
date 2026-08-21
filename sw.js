@@ -1,4 +1,4 @@
-const CACHE = 'orbit-pop-v30';
+const CACHE = 'orbit-pop-v31';
 const root = new URL('./', self.registration.scope);
 const assetUrl = path => new URL(path, root).toString();
 const ASSETS = [
@@ -6,8 +6,8 @@ const ASSETS = [
   'index.html',
   'manifest.webmanifest',
   'icon.svg',
-  'assets/index.css?v=0.24.0',
-  'assets/app.js?v=0.24.0',
+  'assets/index.css?v=0.24.1',
+  'assets/app.js?v=0.24.1',
   'assets/mediterranean-arena.png',
   'assets/mist-archipelago.png',
   'assets/pilots/nara-vela-compact-v4.png',
